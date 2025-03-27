@@ -7,6 +7,8 @@ Built using DocumentFormat.OpenXml.Spreadsheet in C#, this project was designed 
 
 It also includes a sample test run mode, which can be set in the config file to create test reports.
 
+![Project outline diagram](https://saharahex.uk/wp-content/uploads/2025/03/data2sheet.png)
+
 ## Recommended IDE Setup
 
 - [Visual Studio Community 2022](https://visualstudio.microsoft.com/vs/community/) 
