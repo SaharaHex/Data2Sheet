@@ -1,14 +1,10 @@
-# Data2Sheet - Create Spreadsheets from MySQL - Beta
-Create spreadsheets from your MySQL data.
+# Number Equalizer Columns (Java Game) - Alpha
+This project is a simple Java game, maths puzzle. Where the user has to match all four Columns, with the same value.
 
-Filter and generate detailed reports in Excel, and receive email notifications when specific criteria are met. 
+There are two types of games so far, one where it uses “Random Numbers” and another where its given a “Sequence of Numbers”.
 
-Built using DocumentFormat.OpenXml.Spreadsheet in C#, this project was designed to organize data in a simple format for creating reports and highlighting potential issues, such as stock levels. 
+It has logic in place to switch to check the Highest and Lowest numbers in the Columns, forcing a number between that range. This allows the game to end at some point.
 
-It also includes a sample test run mode, which can be set in the config file to create test reports.
+It’s a text base display, with an easy interface for navigation.
 
-![Project outline diagram](https://saharahex.uk/wp-content/uploads/2025/03/data2sheet.png)
-
-## Recommended IDE Setup
-
-- [Visual Studio Community 2022](https://visualstudio.microsoft.com/vs/community/) 
+Different game features could be added to this project by building on the classes.
