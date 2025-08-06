@@ -7,7 +7,7 @@ Built using DocumentFormat.OpenXml.Spreadsheet in C#, this project was designed 
 
 It also includes a sample test run mode, which can be set in the config file to create test reports.
 
-![Project outline diagram](https://saharahex.uk/wp-content/uploads/2025/03/data2sheet.png)
+![Project outline diagram](https://saharahex.uk/wp-content/uploads/2025/08/data2sheet-img1.png)
 
 ## Recommended IDE Setup
 
